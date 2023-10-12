@@ -6,7 +6,7 @@ show_sidebar: false
 hide_footer: false
 hero_height: is-large
 hero_image: /img/homepage_slideshow.gif
-hero_link: /getstarted/
+hero_link: https://castacks.github.io/firevision_sim/getting_started.html
 hero_link_text: Get Started
 
 # hero_link2: /current-members/
@@ -34,6 +34,11 @@ Importantly, in addition to the existing set of robotics sensors in AirSim, we p
 
 
 # Features
+- thermal IR simulation tuned from real world data
+- smoke, fires, fire crew, and fire vehicles in a forest environment
+- integration with Colosseum/AirSim for quadrotor simulation and robot sensor data simulation
+
+# Get Started
 
 Download the [standalone executable environment](https://drive.google.com/file/d/1r0-4Zqqx3nZmpTfzIfuOZheGTIQbczCU/view) to try it out!
 
