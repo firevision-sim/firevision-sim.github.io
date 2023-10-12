@@ -1,0 +1,12 @@
+- name: Get Started
+  link: https://castacks.github.io/firevision_sim/getting_started.html
+- name: Documentation
+  link: https://castacks.github.io/firevision_sim/home.html
+- name: GitHub
+  link: https://github.com/castacks/firevision_sim
+- name: Roadmap
+  link: https://github.com/orgs/castacks/projects/6/views/1
+- name: Team
+  link: /team/
+- name: Contact
+  link: /contact/
