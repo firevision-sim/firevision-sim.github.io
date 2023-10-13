@@ -35,7 +35,8 @@ Importantly, in addition to the existing set of robotics sensors in AirSim, we p
 
 # Features
 - thermal IR simulation tuned from real world data
-- smoke, fires, fire crew, and fire vehicles in a forest environment
+- light-based thermal emission
+- smoke, fires, dynamic fire crew, and fire vehicles in a forest environment
 - integration with Colosseum/AirSim for quadrotor simulation and robot sensor data simulation
 
 # Get Started
